@@ -4,7 +4,20 @@
 
 | 日期 | 事件 | 记录 |
 | --- | --- | --- |
+| 2026-10-31 | SNEF 官方 LinkedIn 回顾——首届雇主峰会展区 8 家机构展示 AI 应用，在华为展位向来宾演示 | [查看](./2026-10-31-snef-summit-recap/) |
 | 2026-10-30 | 《联合早报》头版报道——在新加坡全国雇主联合会首届雇主峰会上演示 AI，向人力部代部长刘洁敏讲解 | [查看](./2026-10-30-zaobao-snef-ai-summit/) |
+
+---
+
+## 2026-10-31 · SNEF 官方回顾
+
+![在 SNEF 首届雇主峰会华为展位演示 AI](2026-10-31-snef-summit-recap/snef-summit-booth-demo.jpg)
+
+SNEF 官方 LinkedIn 回顾首届雇主峰会：展区 8 家机构展示 AI 实际应用，我在华为展位的大屏前向来宾演示。
+
+**帖子**：[SNEF Employers' Summit 2026: Harnessing AI to drive business growth and amplify human potential](https://lnkd.in/p/gNYWWW_q) · SNEF 官方 LinkedIn · 2026-10-31
+
+[完整记录与素材 →](./2026-10-31-snef-summit-recap/)
 
 ---
 
